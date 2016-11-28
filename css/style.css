@@ -266,14 +266,14 @@ code {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 165px;
-  height: 50px;
+  width: 175px;
+  height: 68px;
   background-image: url("images/quht8.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 165px 50px;
-  -moz-background-size: 165px 50px;
-  background-size: 165px 50px;
+  -webkit-background-size: 175px 68px;
+  -moz-background-size: 175px 68px;
+  background-size: 175px 68px;
 }
 .main-body {
   margin-top: -60px;
@@ -370,7 +370,7 @@ code {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 60px;
+  line-height: 78px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -1617,11 +1617,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 132px;
-  height: 40px;
-  -webkit-background-size: 132px 40px;
-  -moz-background-size: 132px 40px;
-  background-size: 132px 40px;
+  width: 140px;
+  height: 54.400000000000006px;
+  -webkit-background-size: 140px 54.400000000000006px;
+  -moz-background-size: 140px 54.400000000000006px;
+  background-size: 140px 54.400000000000006px;
 }
 i.icon {
   display: inline-block;
